@@ -1,4 +1,4 @@
-## 🎬 VR Loading Manager v1.0.0
+## 🎬 VR Loading Manager
 
 **VR Loading Manager** is a tool designed for **Virtual Desktop + VPX Launcher** users who want to display loading videos while their VPX tables are loading in VR.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 🎬 VR Loading Manager v1.0.0
+## 🎬 VR Loading Manager
 
 **VR Loading Manager** est un outil destiné aux utilisateurs de **Virtual Desktop + VPX Launcher** souhaitant afficher des vidéos de chargement pendant le lancement de leurs tables VPX en VR.
 
