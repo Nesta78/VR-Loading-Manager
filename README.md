@@ -1,6 +1,10 @@
 ## 🎬 VR Loading Manager
 
+![vr-loading-manager](https://github.com/user-attachments/assets/e35a745a-7dc0-48fa-a6ab-59719ed7da6b)
+
 **VR Loading Manager** is a tool designed for **Virtual Desktop + VPX Launcher** users who want to display loading videos while their VPX tables are loading in VR.
+
+Démo : https://www.youtube.com/shorts/3sWCS9H2AL4
 
 > ⚠️ **Warning:** If your VPX tables folder already contains `.bat` files, they will be overwritten when generating new ones. Make sure to back them up first if needed.
 
