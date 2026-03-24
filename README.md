@@ -29,6 +29,10 @@ Démo : https://streamable.com/r260d6
 - VPinballX + VPX Launcher
 - Virtual Desktop
 
+## ⚠️ Known limitations
+
+> The loading video does not play for the **first table launched automatically** when VPX Launcher starts. This is a known limitation — VPX Launcher relaunches the last played table directly without going through the `.bat` file. The video will work correctly for all subsequent table launches.
+
 ---
 
 ## 🎬 VR Loading Manager
@@ -57,3 +61,7 @@ Démo : https://streamable.com/r260d6
 - VLC installé (déjà inclus dans PinUP System)
 - VPinballX + VPX Launcher
 - Virtual Desktop
+
+## ⚠️ Limitations connues
+
+> La vidéo de chargement ne se lance pas pour la **première table lancée automatiquement** au démarrage de VPX Launcher. Il s'agit d'une limitation connue — VPX Launcher relance la dernière table jouée directement sans passer par le fichier `.bat`. La vidéo fonctionnera correctement pour tous les lancements suivants.
