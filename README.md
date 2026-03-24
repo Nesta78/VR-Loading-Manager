@@ -11,7 +11,7 @@ Démo : https://streamable.com/r260d6
 ### Features
 - Automatic VPX table audit and video matching
 - .bat launcher generator for all tables
-- Video manager (import, preview, delete)
+- Video manager (import, preview, delete, search on VPUniverse)
 - Built-in .bat template editor
 - FR / EN bilingual interface
 - Automatic updates via GitHub
@@ -29,10 +29,6 @@ Démo : https://streamable.com/r260d6
 - VPinballX + VPX Launcher
 - Virtual Desktop
 
-## ⚠️ Known limitations
-
-> The loading video does not play for the **first table launched automatically** when VPX Launcher starts. This is a known limitation — VPX Launcher relaunches the last played table directly without going through the `.bat` file. The video will work correctly for all subsequent table launches.
-
 ---
 
 ## 🎬 VR Loading Manager
@@ -44,7 +40,7 @@ Démo : https://streamable.com/r260d6
 ### Fonctionnalités
 - Audit automatique des tables VPX et association aux vidéos de chargement
 - Génération des lanceurs .bat pour toutes les tables
-- Gestionnaire de vidéos (import, prévisualisation, suppression)
+- Gestionnaire de vidéos (import, prévisualisation, suppression, recherche sur VPUniverse)
 - Éditeur de modèle .bat intégré
 - Interface bilingue FR / EN
 - Mise à jour automatique via GitHub
@@ -61,7 +57,3 @@ Démo : https://streamable.com/r260d6
 - VLC installé (déjà inclus dans PinUP System)
 - VPinballX + VPX Launcher
 - Virtual Desktop
-
-## ⚠️ Limitations connues
-
-> La vidéo de chargement ne se lance pas pour la **première table lancée automatiquement** au démarrage de VPX Launcher. Il s'agit d'une limitation connue — VPX Launcher relance la dernière table jouée directement sans passer par le fichier `.bat`. La vidéo fonctionnera correctement pour tous les lancements suivants.
