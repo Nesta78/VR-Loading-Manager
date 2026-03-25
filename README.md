@@ -6,8 +6,6 @@
 
 Démo : https://streamable.com/r260d6
 
-> ⚠️ **Warning:** If your VPX tables folder already contains `.bat` files, they will be overwritten when generating new ones. Make sure to back them up first if needed.
-
 ### Features
 - Automatic VPX table audit and video matching
 - .bat launcher generator for all tables
@@ -29,13 +27,14 @@ Démo : https://streamable.com/r260d6
 - VPinballX + VPX Launcher
 - Virtual Desktop
 
+### Advice
+⚠️ You should enable the "Black Desktop" option in VPX Launcher Settings, to avoid seeing your desktop screen between each table loading
+
 ---
 
 ## 🎬 VR Loading Manager
 
 **VR Loading Manager** est un outil destiné aux utilisateurs de **Virtual Desktop + VPX Launcher** souhaitant afficher des vidéos de chargement pendant le lancement de leurs tables VPX en VR.
-
-> ⚠️ **Attention :** Si votre dossier de tables VPX contient déjà des fichiers `.bat`, ils seront écrasés lors de la génération. Pensez à les sauvegarder au préalable si nécessaire.
 
 ### Fonctionnalités
 - Audit automatique des tables VPX et association aux vidéos de chargement
@@ -57,3 +56,6 @@ Démo : https://streamable.com/r260d6
 - VLC installé (déjà inclus dans PinUP System)
 - VPinballX + VPX Launcher
 - Virtual Desktop
+
+### Conseil important
+⚠️ Vous devriez activer l'option "Black Desktop" dans les paramètres de VPX Launcher. Cela évite de voir le bureau à chaque changement de table.
